@@ -3,8 +3,13 @@ I am a Full Stack JavaScript Developer with +10 years of experience..👌
 [![Twitter: FabioR](https://img.shields.io/twitter/follow/hackchan77?style=social)](https://twitter.com/hackchan77)
 [![GitHub FabioR](https://img.shields.io/github/followers/hackchan?label=follow&style=social)](https://github.com/hackchan)
 
+<p align="center" width="300">
+    <img  align="center" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220" /> 
+   <h3 align="center">¡Hey 👋! Soy hackchan 👨🏻‍💻</h3>
+</p>
 
-### <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> A little more about me...  
+
+A little more about me...  
 
 ```javascript
 const fabio = {
