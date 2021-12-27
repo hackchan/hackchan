@@ -7,8 +7,8 @@ I am a Full Stack JavaScript Developer with +10 years of experience..👌
 ### <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const fabio = {
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Nodejs],
   tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
